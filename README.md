@@ -1,2 +1,2 @@
-# my-portfolio
-This is my professional portfolio
+# Subhajit's portfolio
+This is my Portfolio
